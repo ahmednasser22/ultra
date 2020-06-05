@@ -1,0 +1,93 @@
+{
+    "works": [
+        {
+            "id": 1,
+            "icon_name": "icon fa fa-chain fa-2x",
+            "title": "Mobile UX",
+            "body": "User experience (UX) in mobile refers to the overall experience a person has interacting with any type of mobile device"
+        },
+        {
+            "id": 2,
+            "icon_name": "icon fa fa-bolt fa-2x",
+            "title": "Mobile UX",
+            "body": "User experience (UX) in mobile refers to the overall experience a person has interacting with any type of mobile device"
+        },
+        {
+            "id": 3,
+            "icon_name": "icon fa fa-tachometer fa-2x",
+            "title": "Mobile UX",
+            "body": "User experience (UX) in mobile refers to the overall experience a person has interacting with any type of mobile device"
+        }
+    ],
+    "portofolio": [
+        {
+            "id": 1,
+            "image": "images/Portfolio/img1.jpg"
+        },
+        {
+            "id": 2,
+            "image": "images/Portfolio/img2.jpg"
+        },
+        {
+            "id": 3,
+            "image": "images/Portfolio/img3.jpg"
+        },
+        {
+            "id": 4,
+            "image": "images/Portfolio/img4.jpg"
+        },
+        {
+            "id": 5,
+            "image": "images/Portfolio/img5.jpg"
+        },
+        {
+            "id": 6,
+            "image": "images/Portfolio/img6.jpg"
+        },
+        {
+            "id": 7,
+            "image": "images/Portfolio/img7.jpg"
+        },
+        {
+            "id": 8,
+            "image": "images/Portfolio/img8.jpg"
+        }
+    ],
+    "social": [
+        {
+            "id": 1,
+            "icon": "fa fa-facebook fa-lg",
+            "title": "Follow me on",
+            "body": "Social Facebook"
+        },
+        {
+            "id": 2,
+            "icon": "fa fa-twitter fa-lg",
+            "title": "Tweet me on",
+            "body": "Social Twitter"
+        },
+        {
+            "id": 3,
+            "icon": "fa fa-pinterest fa-lg",
+            "title": "Pin me on",
+            "body": "Social Pinterest"
+        }
+    ],
+    "profile": [
+        {
+            "id": 1,
+            "title": "Bootstrap",
+            "percentage": "100%"
+        },
+        {
+            "id": 2,
+            "title": "CSS3",
+            "percentage": "80%"
+        },
+        {
+            "id": 3,
+            "title": "Javascript",
+            "percentage": "70%"
+        }
+    ]
+}
